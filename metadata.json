@@ -3,15 +3,8 @@
     "title": "Skycast",
     "description": "SkyCast is a smart weather app that delivers real-time forecasts with a clean and user-friendly interface.",
     "techStack": [
-        "React.Js",
-        "Zustand",
-        "Express.js",
-        "Socket.io",
-        "Playwright",
-        "MongoDB",
-        "Redis",
-        "Docker",
-        "jest/supertest"
+        "React.Js"
+        
     ],
     "keyFeatures": [
        " Real-time Weather Updates – Fetches live weather data using API integration.",
