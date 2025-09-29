@@ -1,9 +1,9 @@
 {
     "imgUrl": "/utils/projects/skycast_project.png",
     "title": "Skycast",
-    "description": "Real-time MERN app with live hackathons, tasks, chat, push alerts for team projects.",
+    "description": ""SkyCast is a smart weather app that delivers real-time forecasts with a clean and user-friendly interface.",
     "techStack": [
-        "Next.Js",
+        "React.Js",
         "Zustand",
         "Express.js",
         "Socket.io",
@@ -14,10 +14,17 @@
         "jest/supertest"
     ],
     "keyFeatures": [
-        "Built CoFlow with a teammate, a real-time hackathon discovery & team coordination platform",
-        "Implemented Real-time team chat & collaborative task tracking",
-        "Built an automated hackathons scraper using Node-Cron and Playwright for consistent event updates",
-        "Integrated Realtime Push-Notification Alerts using Redis"
+       " Real-time Weather Updates – Fetches live weather data using API integration.",
+
+"📍 Location-based Forecasts – Provides weather details based on user’s location.",
+
+"🔍 Search Functionality – Allows users to check weather for any city worldwide.",
+
+"📊 Detailed Forecast – Displays temperature, humidity, wind speed, and conditions.",
+
+"🎨 Clean & Responsive UI – Built with React for a smooth and user-friendly experience.",
+
+"⚡ Fast Performance – Optimized state management for quick data rendering."
     ],
     "isLiveLink": "true",
     "githubLink": "https://github.com/Kamalakar30/Skycast",
