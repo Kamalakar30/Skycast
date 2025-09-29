@@ -1,7 +1,7 @@
 {
     "imgUrl": "/utils/projects/skycast_project.png",
     "title": "Skycast",
-    "description": ""SkyCast is a smart weather app that delivers real-time forecasts with a clean and user-friendly interface.",
+    "description": "SkyCast is a smart weather app that delivers real-time forecasts with a clean and user-friendly interface.",
     "techStack": [
         "React.Js",
         "Zustand",
