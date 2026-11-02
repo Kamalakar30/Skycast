@@ -1,5 +1,5 @@
-give me readme file
-Skycast - Weather Application
+
+Skycast - Weather ForeCasting App
 A modern, responsive weather application built with React and Vite that provides real-time weather information, forecasts, and condition tracking.
 
 Features
